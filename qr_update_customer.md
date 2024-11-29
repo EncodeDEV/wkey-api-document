@@ -34,9 +34,6 @@ Content-Type: application/json
 }
 ```
 
-- `data.action` Hành động thêm mới hoặc cập nhật, giá trị gồm: `add`, `edit`
-- `data.id` ID khách hàng trên hệ thống VietCheck
-
 Dữ liệu không hợp lệ:
  ```http
 STATUS: 200 OK
