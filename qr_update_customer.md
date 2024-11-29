@@ -51,6 +51,9 @@ Content-Type: application/json
         "serias": [
             "Có mã đã có thông tin người mua"
         ]
-    }
+    },
+    "invalid_serials": [
+        "24T0TFYV"
+    ]
 }
 ```
