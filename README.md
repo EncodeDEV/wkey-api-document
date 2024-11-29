@@ -15,11 +15,9 @@ Ngoài ra cần gửi kèm tham số URL sau để xác thực quyền truy cậ
 
 ### Danh sách các API:
 
-- [Kiểm tra thông tin mã QR](check_code.md)
-- [Lấy thông tin khách hàng bằng số điện thoại](customer_detail_phone.md)
-- [Lấy thông tin khách hàng bằng địa chỉ email](customer_detail_email.md)
-- [Thêm mới hoặc cập nhật thông tin khách hàng](customer_add_update.md)
-- [Lấy danh sách dữ liệu khách hàng có phân trang](customer_list.md)
+- [Cập nhật thông tin người mua vào mã QR](qr_update_customer.md)
+- [Cập nhật thông tin sản phẩm vào mã QR](qr_update_product.md)
+- [Thêm thông tin sản phẩm mới](product_add.md)
 
 ## Response Status, Status Code
 Kết quả trả về với https status 200 nếu thông số gửi lên là hợp lệ có thể xử lý dữ liệu, một số trường hợp khác lỗi hệ thống không xác định https status là 500, do gửi sai phương thức https status là 405, sai địa chỉ https status là 404, không xác thực https status là 401, không có quyền https status là 403 (Xem danh sách HTTP status ở dưới)
