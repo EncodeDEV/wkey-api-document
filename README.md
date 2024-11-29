@@ -15,7 +15,8 @@ Ngoài ra cần gửi kèm tham số URL sau để xác thực quyền truy cậ
 
 ### Danh sách các API:
 
-- [Cập nhật thông tin người mua vào mã QR](qr_update_customer.md)
+- [Cập nhật thông tin người mua vào một mã QR](qr_update_customer.md)
+- [Cập nhật thông tin người mua vào nhiều mã QR](qr_update_customers.md)
 - [Cập nhật thông tin sản phẩm vào mã QR](qr_update_product.md)
 - [Thêm thông tin sản phẩm mới](product_add.md)
 
